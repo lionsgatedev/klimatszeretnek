@@ -1,0 +1,36 @@
+<?xml verzió="1.0" kódolás="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>klímátszeretnék.hu blog</title>
+    <link href="https://www.klimatszeretnek.hu/blog/1"/>
+    <id>https://www.klimatszeretnek.hu/blog/1</id>
+    <updated>2022-06-27T17:03:17Z</updated>
+    <entry>
+        <title>Gazdaságos fűtés klímával</title>
+        <link href="https://www.klimatszeretnek.hu/blog/klimatszeretnek-hu-blog-1/gazdasagos-futes-klimaval-3"/>
+        <id>https://www.klimatszeretnek.hu/blog/klimatszeretnek-hu-blog-1/gazdasagos-futes-klimaval-3</id>
+        <author><name>Administrator</name></author>
+        <summary>...</summary>
+        <updated>2022-06-27T17:03:17Z</updated>
+    </entry><entry>
+        <title>Hogyan válassz klímát!</title>
+        <link href="https://www.klimatszeretnek.hu/blog/klimatszeretnek-hu-blog-1/hogyan-valassz-klimat-5"/>
+        <id>https://www.klimatszeretnek.hu/blog/klimatszeretnek-hu-blog-1/hogyan-valassz-klimat-5</id>
+        <author><name>Administrator</name></author>
+        <summary>...</summary>
+        <updated>2022-06-27T17:03:15Z</updated>
+    </entry><entry>
+        <title>Midea mission légkondicionáló kezelési útmutató</title>
+        <link href="https://www.klimatszeretnek.hu/blog/klimatszeretnek-hu-blog-1/midea-mission-legkondicionalo-kezelesi-utmutato-4"/>
+        <id>https://www.klimatszeretnek.hu/blog/klimatszeretnek-hu-blog-1/midea-mission-legkondicionalo-kezelesi-utmutato-4</id>
+        <author><name>Administrator</name></author>
+        <summary>Midea Mission légkondicionáló kezelési útmutatójának videója, amelyben a legfontosabb funkciók kerülnek bemutatásra....</summary>
+        <updated>2022-06-27T17:00:07Z</updated>
+    </entry><entry>
+        <title>Mire figyelj klíma vásárláskor? Avagy lakossági klíma megoldások a Midea-tól!</title>
+        <link href="https://www.klimatszeretnek.hu/blog/klimatszeretnek-hu-blog-1/mire-figyelj-klima-vasarlaskor-avagy-lakossagi-klima-megoldasok-a-midea-tol-2"/>
+        <id>https://www.klimatszeretnek.hu/blog/klimatszeretnek-hu-blog-1/mire-figyelj-klima-vasarlaskor-avagy-lakossagi-klima-megoldasok-a-midea-tol-2</id>
+        <author><name>Administrator</name></author>
+        <summary>A Midea megbízható klímaszerelő szakemberekkel dolgozik. Ismerd meg márkánkat és válasz mi álltalunk közvetitett megbízható szakembert....</summary>
+        <updated>2022-06-27T16:57:11Z</updated>
+    </entry>
+</feed>
